@@ -1,2 +1,12 @@
-# HoneyCollab
-HoneyNet qui permet aux chercheurs en sécurité et aux administrateurs réseau de déployer, surveiller et analyser des honeypots de manière centralisée. Cette plateforme fournira des outils pour créer facilement des honeypots personnalisés, collecter des données sur les attaques
+# HoneyNet Collaborative Platform
+
+## Description
+Une plateforme collaborative pour le déploiement, la surveillance et l'analyse des honeypots en temps réel.
+
+## Configuration
+Assurez-vous d'avoir Docker et Docker Compose installés.
+
+## Installation
+Clonez ce dépôt et naviguez dans le répertoire principal.
+git clone https://github.com/wazydev/HoneyCollab.git
+cd /HoneyCollab
