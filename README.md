@@ -10,3 +10,7 @@ Assurez-vous d'avoir Docker et Docker Compose installés.
 Clonez ce dépôt et naviguez dans le répertoire principal.
 git clone https://github.com/wazydev/HoneyCollab.git
 cd /HoneyCollab
+
+
+
+!! Cette librairie est officiellement développé par Wayz !!
